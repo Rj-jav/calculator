@@ -1,0 +1,18 @@
+@media all and (max-width: 670px) {
+    .calculator{
+        width: 400px;
+    }
+    .calculator h1{
+        font-size: 25px;
+    }
+
+    .container h1{
+        font-size: 25px;
+    }
+    .container {
+        width: 400px;
+    }
+    .container p{
+        font-size: 14px;
+    }
+}
